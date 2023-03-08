@@ -1,0 +1,21 @@
+.all{
+    display: flex;
+}
+.promo{
+    text-align: justify;
+    width: 600px;
+    padding-top: 60px;
+    padding-left: 40px;
+}
+h1{
+    padding-top: 50px;
+    font-family: papyrus;
+}
+p{
+    font-family: Segoe Print;
+}
+.img{
+    align-items: left;
+    height: 550px;  
+    width: 650px;
+}
